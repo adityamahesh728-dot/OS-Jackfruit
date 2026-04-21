@@ -75,37 +75,37 @@ sudo rmmod monitor
 
 ### SS1 – Multi-container supervision
 
-![SS1](screenshots/ss1_multicontainer.png)
+![SS1](SCREENSHOTS/Multicontainer.png)
 
 ### SS2 – Metadata tracking
 
-![SS2](screenshots/ss2_ps.png)
+![SS2](SCREENSHOTS/PS.png)
 
 ### SS3 – Logging system
 
-![SS3](screenshots/ss3_logs.png)
+![SS3](SCREENSHOTS/LOGS.png)
 
 ### SS4 – CLI and IPC
 
-![SS4](screenshots/ss4_cli.png)
+![SS4](SCREENSHOTS/cli.png)
 
 ### SS5 – Soft limit behavior
 
 Soft-limit warnings are transient and may not always be visible due to rapid memory allocation.
 
-![SS5](screenshots/ss5_soft.png)
+![SS5](SCREENSHOTS/Soft.png)
 
 ### SS6 – Hard limit enforcement
 
-![SS6](screenshots/ss6_hard.png)
+![SS6](SCREENSHOTS/Hard.png)
 
 ### SS7 – Scheduling experiment
 
-![SS7](screenshots/ss7_scheduler.png)
+![SS7](SCREENSHOTS/scheduler.png)
 
 ### SS8 – Clean teardown
 
-![SS8](screenshots/ss8_cleanup.png)
+![SS8](SCREENSHOTS/cleanup.png)
 
 ---
 
